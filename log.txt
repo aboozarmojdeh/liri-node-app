@@ -1,0 +1,21 @@
+
+-----------------------------------------------------------
+Tweets of @aboozarmojdeh: I love web develpoment
+Created At: Mon Jul 23 21:42:34
+---------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------
+Tweets of @aboozarmojdeh: Working on Nodejs is fine!
+Created At: Mon Jul 23 21:42:13
+-----------------------------------------------------------
+-----------------------------------------------------------
+Tweets of @aboozarmojdeh: Coding in Bootcamp
+Created At: Mon Jul 23 21:41:55
+----------------------------------------------------------------------------------Movie Data Log  ----------:
+Title: Hitman
+Year: 2007
+Rating: 6.3
+Tomatoes: N/A
+Country: France, USA
+Language: English, Russian, Serbo-Croatian
+Plot: A gun-for-hire known only as Agent 47 hired by a group known only as 'The Organization' is ensnared in a political conspiracy, which finds him pursued by both Interpol and the Russian military as he treks across Russia and Eastern Europe.
+Actors: Timothy Olyphant, Dougray Scott, Olga Kurylenko, Robert Knepper
